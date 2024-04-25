@@ -1,9 +1,9 @@
 {
-	"name": "uzzielpelawak/helpers",
+	"name": "ybsisgood/helpers",
 	"description": "Helpers for yii 2",
 	"autoload": {
 		"psr-4": {
-			"uzzielpelawak\\helpers\\": ""
+			"ybsisgood\\helpers\\": ""
 		}
 	}
 }
